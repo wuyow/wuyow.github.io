@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[HVOB-HVOB 专辑 FLAC 2013]]></title>
     <url>%2F2018%2F12%2F26%2FHVOB-HVOB-%E4%B8%93%E8%BE%91-FLAC-2013%2F</url>
-    <content type="text"><![CDATA[简介：专辑：HVOB歌手：HVOB发行时间：2013-03-19发行公司：Stil Vor Talent 在线欣赏：https://music.163.com/#/album?id=2504849（如无法试听请点击进入网易云音乐试听） 无损下载（FLAC）：HVOB - HVOB [SVT098] FLAC-2013.zip]]></content>
+    <content type="text"><![CDATA[简介：专辑：HVOB歌手：HVOB发行时间：2013-03-19发行公司：Stil Vor Talent 在线欣赏：（如无法试听请点击进入网易云音乐试听） 无损下载（FLAC）：HVOB - HVOB [SVT098] FLAC-2013.zip]]></content>
       <categories>
         <category>-无损音乐</category>
       </categories>
@@ -27,7 +27,7 @@
   <entry>
     <title><![CDATA[Hexo远程媒体播放测试]]></title>
     <url>%2F2018%2F12%2F11%2FHexo%E8%BF%9C%E7%A8%8B%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE%E6%B5%8B%E8%AF%95%2F</url>
-    <content type="text"><![CDATA[视频播放安装视频播放插件dplayer，命令行运行：1npm install hexo-tag-dplayer dplayer演示：1&#123;% dplayer "url=视频地址" "pic=" "loop=no" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %&#125; (function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"http://17431793.d.yyupload.com/down/17431793/MV/Kygo - This Town ft. Sasha Sloan - Music Video - Lyrics.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 音频播放安装音频播放插件aplayer,命令行运行：1npm install hexo-tag-aplayer aplayer演示1&#123;% aplayer "雨樱" "MAYU" "音频地址" %&#125; var ap = new APlayer({ element: document.getElementById("aplayer-GSBwbWNo"), narrow: false, autoplay: false, showlrc: false, music: { title: "雨樱", author: "MAYU", url: "http://www.ytmp3.cn/down/56249.mp3", pic: "http://vrok.3vdo.net/image/雨樱.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[视频播放安装视频播放插件dplayer，命令行运行：1npm install hexo-tag-dplayer dplayer演示：1&#123;% dplayer "url=视频地址" "pic=" "loop=no" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %&#125; (function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"http://17431793.d.yyupload.com/down/17431793/MV/Kygo - This Town ft. Sasha Sloan - Music Video - Lyrics.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 音频播放安装音频播放插件aplayer,命令行运行：1npm install hexo-tag-aplayer aplayer演示1&#123;% aplayer "雨樱" "MAYU" "音频地址" %&#125; var ap = new APlayer({ element: document.getElementById("aplayer-qXNUrhZF"), narrow: false, autoplay: false, showlrc: false, music: { title: "雨樱", author: "MAYU", url: "http://www.ytmp3.cn/down/56249.mp3", pic: "http://vrok.3vdo.net/image/雨樱.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>-笔记</category>
       </categories>
